@@ -33,7 +33,7 @@
     "cli-color": "^2.0.0",
     "color": "^4.2.3",
     "core-js": "^3.6.5",
-    "crypto-js": "^4.0.0",
+    "crypto-js": "^4.2.0",
     "dayjs": "^1.8.36",
     "dexie": "^3.0.3",
     "discord-rich-presence": "^0.0.8",
