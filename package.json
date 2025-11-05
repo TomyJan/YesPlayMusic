@@ -23,7 +23,7 @@
   },
   "main": "background.js",
   "engines": {
-    "node": "17"
+    "node": "22.x"
   },
   "dependencies": {
     "@neteaseapireborn/api": "^4.29.7",
@@ -100,7 +100,8 @@
   "resolutions": {
     "icon-gen": "3.0.0",
     "degenerator": "2.2.0",
-    "electron-builder": "^23.0.0"
+    "electron-builder": "^23.0.0",
+    "@achrinza/node-ipc": "^10.1.0"
   },
   "eslintConfig": {
     "root": true,
