@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://tomyjan-musicapi.vercel.app/:match*"
+    }
+  ]
+}
